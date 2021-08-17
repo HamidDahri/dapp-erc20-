@@ -1,7 +1,7 @@
 //require('babel-register');
 //reqxuire('babel-polyfill');
 
-module.exports = {xcbdfhbfd
+module.exports = {
   networks: {
     development: {
       host: "127.0.0.1",
